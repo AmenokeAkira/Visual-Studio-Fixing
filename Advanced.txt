@@ -1,0 +1,22 @@
+Advanced Properties:
+Target File Extension - .exe
+Extensions to Delete on Clean - *.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi
+Build Log File - $(IntDir)$(MSBuildProjectName).log
+Preferred Build Tool Architecture - Default
+Use Debug Libraries - Yes
+Enable Unity (JUMBO) Build - No
+Copy Content to OutDir - No
+Copy Project References to OutDir - No
+Copy Project References' Symbols to OutDir - No
+Copy C++ Runtime to OutDir - No
+Use of MFC - Use Standard Windows Libraries
+Character Set - Use Unicode Character Set
+Whole Program Optimization - No Whole Program Optimization
+MSVC Toolset Version - Default
+Enable MSVC Structured Output - Yes
+
+C++/CLI Properties:
+Common Language Runtime Support - No Common Language Runtime Support
+.NET Target Framework Version - ' '
+Enable Managed Incremental Build - No
+Enable CLR Support for Individual Files - ' '

@@ -1,0 +1,15 @@
+General:
+Executable Directories - $(VC_ExecutablePath_x64);$(CommonExecutablePath)
+Include Directories - $(VC_IncludePath);$(WindowsSDK_IncludePath);
+External include Directories - $(VC_IncludePath);$(WindowsSDK_IncludePath);
+Reference Directories - $(VC_ReferencesPath_x64);
+Library Directories - $(VC_LibraryPath_x64);$(WindowsSDK_LibraryPath_x64);$(NETFXKitsDir)Lib\um\x64
+Library WinRT Directories - $(WindowsSDK_MetadataPath);
+Source Directories - $(VC_SourcePath);
+Exclude Directories - $(VC_SourcePath);
+
+Public Project Content:
+Public Include Directories - ' '
+All Header Files are Public - No
+Public C++ Module Directories - ' '
+All Modules are Public - No

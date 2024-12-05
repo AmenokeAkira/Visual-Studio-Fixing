@@ -1,0 +1,11 @@
+General Properties:
+Output Directory - $(SolutionDir)$(Platform)\$(Configuration)\
+Intermediante Directory - $(ShortProjectName)\$(Platform)\$(Configuration)\
+Target Name - $(ProjectName)
+
+Examples:
+Configuration Type - Application (.exe)
+Windows SDK Version - 10.0 (latest installed version)
+Platform Toolset - Visual Studio 2022 (v143)
+C++ Language Standard - Default (ISO C++14 Standard)
+C Language Standard - Default (Legacy MSVC)

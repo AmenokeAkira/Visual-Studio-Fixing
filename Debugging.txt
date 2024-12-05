@@ -1,0 +1,10 @@
+Debugger to launch:
+Command - $(TargetPath)
+Command Arguments - ' '
+Working Directory - $(ProjectDir)
+Attach - No
+Debugger Type - Auto
+Environment - ' '
+Merge Environment - Yes
+SQL Debugging - No
+Amp Default Accelerator - WARP software accelerator
