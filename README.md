@@ -6,3 +6,5 @@ This repository includes templates for all the main paths to libraries and direc
 To use the templates, you should open your project and edit its properties according to the paths provided in the files.
 
 Attention! Many of these paths are situational and are configured specifically for certain projects. I recommend changing only the paths in the VC++ Directories file.
+
+![Без названия83](https://github.com/user-attachments/assets/46c37dab-d228-4f5c-85f4-d778013b4e77)
